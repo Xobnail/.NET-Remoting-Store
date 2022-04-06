@@ -1,0 +1,6 @@
+C:\Users\Ravil\source\repos\StoreInterface\StoreInterface\bin\Debug\StoreInterface.dll
+C:\Users\Ravil\source\repos\StoreInterface\StoreInterface\bin\Debug\StoreInterface.pdb
+C:\Users\Ravil\source\repos\StoreInterface\StoreInterface\obj\Debug\StoreInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ravil\source\repos\StoreInterface\StoreInterface\obj\Debug\StoreInterface.dll
+C:\Users\Ravil\source\repos\StoreInterface\StoreInterface\obj\Debug\StoreInterface.pdb
+C:\Users\Ravil\source\repos\StoreInterface\StoreInterface\obj\Debug\StoreInterface.csprojAssemblyReference.cache

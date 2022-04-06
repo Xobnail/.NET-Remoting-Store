@@ -1,0 +1,12 @@
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreServer.exe.config
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreServer.exe
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreServer.pdb
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreClass.dll
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreInterface.dll
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreClass.pdb
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\bin\Debug\StoreInterface.pdb
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\obj\Debug\StoreServer.csprojAssemblyReference.cache
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\obj\Debug\StoreServer.csproj.CoreCompileInputs.cache
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\obj\Debug\StoreServer.csproj.CopyComplete
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\obj\Debug\StoreServer.exe
+C:\Users\Ravil\source\repos\StoreServer\StoreServer\obj\Debug\StoreServer.pdb

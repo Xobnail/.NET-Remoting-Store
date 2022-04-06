@@ -1,0 +1,9 @@
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\bin\Debug\StoreClass.dll
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\bin\Debug\StoreClass.pdb
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\bin\Debug\StoreInterface.dll
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\bin\Debug\StoreInterface.pdb
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\obj\Debug\StoreClass.csprojAssemblyReference.cache
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\obj\Debug\StoreClass.csproj.CoreCompileInputs.cache
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\obj\Debug\StoreClass.csproj.CopyComplete
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\obj\Debug\StoreClass.dll
+C:\Users\Ravil\source\repos\StoreClass\StoreClass\obj\Debug\StoreClass.pdb
